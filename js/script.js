@@ -13,13 +13,13 @@ console.log(favColor);
 document.getElementById('titleUserPassword').innerHTML = 
 
 `
-<h1>Password generata: </h1>
+<h2>Password generata: </h2>
 
 `
 document.getElementById('userPassword').innerHTML = 
 
 `
-<h2> ${userPassword} </h2>
+<h1> ${userPassword} </h1>
 
 `
 document.getElementById('passwordLenght').innerHTML = 
